@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c8c64786bf478f45a3bb99c20886107
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eData: {instanceID: 0}
+  - eBase: {fileID: 11400000, guid: b1c6fa63466c2d840995736893bc12f5, type: 2}
+  - eDataInstance: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
